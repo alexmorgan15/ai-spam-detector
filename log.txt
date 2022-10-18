@@ -994,3 +994,4 @@
 0994. 🚀 perf: reduce image load time
 0995. ✅ test: mock database connection in test suite
 0996. ✅ test: test user registration edge cases
+0997. ✅ test: increase coverage on auth module
