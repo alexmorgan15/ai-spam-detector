@@ -992,3 +992,4 @@
 0992. ♻️ chore: clean up unused files
 0993. ✨ feat: implement quiz timer feature
 0994. 🚀 perf: reduce image load time
+0995. ✅ test: mock database connection in test suite
