@@ -988,3 +988,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0989. 📚 docs: write FAQ section
 0990. ♻️ chore: rename env.example
+0991. ♻️ chore: clean up unused files
