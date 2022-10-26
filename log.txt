@@ -986,3 +986,4 @@
 0986. 📚 docs: document token refresh logic
 0987. ✨ feat: create admin dashboard
 0988. 🐛 fix: fix broken CSS in mobile view
+0989. 📚 docs: write FAQ section
