@@ -979,3 +979,4 @@
 0979. 🎨 style: standardize quote style
 0980. 🎨 style: reformat files with black
 0981. 🚀 perf: lazy-load components
+0982. 🚀 perf: lazy-load components
