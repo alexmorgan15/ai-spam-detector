@@ -977,3 +977,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0978. 🐛 fix: prevent crash on empty input
 0979. 🎨 style: standardize quote style
+0980. 🎨 style: reformat files with black
