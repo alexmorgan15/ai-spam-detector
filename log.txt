@@ -975,3 +975,4 @@
 0975. 🎨 style: apply consistent indentation
 0976. ✨ feat: implement quiz timer feature
 0977. 🔧 refactor: organize models into subfolders
+0978. 🐛 fix: prevent crash on empty input
