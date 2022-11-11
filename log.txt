@@ -970,3 +970,4 @@
 0970. ♻️ chore: update .gitignore
 0971. 🎨 style: standardize quote style
 0972. 🔧 refactor: refactor quiz grading logic
+0973. 🔧 refactor: organize models into subfolders
