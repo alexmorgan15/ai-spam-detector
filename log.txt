@@ -965,3 +965,4 @@
 0965. 🎨 style: reformat files with black
 0966. 📚 docs: improve code comments in utils
 0967. ♻️ chore: add GitHub actions badge
+0968. 🎨 style: standardize quote style
