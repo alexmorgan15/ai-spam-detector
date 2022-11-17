@@ -964,3 +964,4 @@
 0964. ♻️ chore: clean up unused files
 0965. 🎨 style: reformat files with black
 0966. 📚 docs: improve code comments in utils
+0967. ♻️ chore: add GitHub actions badge
