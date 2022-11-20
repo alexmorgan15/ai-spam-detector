@@ -961,3 +961,4 @@
 0961. 📚 docs: add API usage examples
 0962. ✨ feat: create admin dashboard
 0963. 🚀 perf: reduce image load time
+0964. ♻️ chore: clean up unused files
