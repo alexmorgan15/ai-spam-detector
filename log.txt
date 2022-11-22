@@ -959,3 +959,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0960. ✅ test: increase coverage on auth module
 0961. 📚 docs: add API usage examples
+0962. ✨ feat: create admin dashboard
