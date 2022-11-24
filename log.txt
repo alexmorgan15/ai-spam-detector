@@ -957,3 +957,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0958. 🐛 fix: prevent crash on empty input
 0959. 🐛 fix: fix null pointer exception on login
+0960. ✅ test: increase coverage on auth module
