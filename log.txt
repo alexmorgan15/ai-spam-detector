@@ -955,3 +955,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0956. 📚 docs: clarify environment setup
 0957. 🐛 fix: fix null pointer exception on login
+0958. 🐛 fix: prevent crash on empty input
