@@ -947,3 +947,4 @@
 0947. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
 0949. 📚 docs: write FAQ section
+0950. 🎨 style: reformat files with black
