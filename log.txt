@@ -945,3 +945,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0946. ✅ test: add unit test for quiz service
 0947. 📚 docs: write FAQ section
+0948. 🐛 fix: fix broken CSS in mobile view
