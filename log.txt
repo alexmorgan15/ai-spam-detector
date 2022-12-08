@@ -943,3 +943,4 @@
 0943. 🎨 style: rename variables for clarity
 0944. ✨ feat: add user authentication
 0945. ♻️ chore: add GitHub actions badge
+0946. ✅ test: add unit test for quiz service
