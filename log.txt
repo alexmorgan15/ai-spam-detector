@@ -942,3 +942,4 @@
 0942. ✅ test: increase coverage on auth module
 0943. 🎨 style: rename variables for clarity
 0944. ✨ feat: add user authentication
+0945. ♻️ chore: add GitHub actions badge
