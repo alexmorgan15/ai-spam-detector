@@ -939,3 +939,4 @@
 0939. 📚 docs: update README with setup steps
 0940. 📚 docs: document token refresh logic
 0941. 🚀 perf: cache repeated calculations
+0942. ✅ test: increase coverage on auth module
