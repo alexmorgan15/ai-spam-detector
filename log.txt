@@ -934,3 +934,4 @@
 0934. ✨ feat: support email verification
 0935. 📚 docs: update README with setup steps
 0936. 🔧 refactor: organize models into subfolders
+0937. 🐛 fix: handle 500 error in quiz API
