@@ -933,3 +933,4 @@
 0933. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
 0935. 📚 docs: update README with setup steps
+0936. 🔧 refactor: organize models into subfolders
