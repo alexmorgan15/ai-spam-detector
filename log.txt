@@ -922,3 +922,4 @@
 0922. 📚 docs: write FAQ section
 0923. ✨ feat: support email verification
 0924. ✅ test: mock database connection in test suite
+0925. ✨ feat: add export to CSV option
