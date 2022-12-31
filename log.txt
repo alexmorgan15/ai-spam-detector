@@ -920,3 +920,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0921. 🐛 fix: correct typo in registration form
 0922. 📚 docs: write FAQ section
+0923. ✨ feat: support email verification
