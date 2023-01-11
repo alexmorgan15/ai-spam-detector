@@ -909,3 +909,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0910. 🎨 style: remove trailing whitespace
 0911. ✅ test: increase coverage on auth module
+0912. 📚 docs: document token refresh logic
