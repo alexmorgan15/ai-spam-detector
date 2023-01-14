@@ -906,3 +906,4 @@
 0906. 📚 docs: add API usage examples
 0907. 🔧 refactor: split large controller into smaller functions
 0908. ♻️ chore: bump dependencies
+0909. 🔧 refactor: organize models into subfolders
