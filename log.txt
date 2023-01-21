@@ -899,3 +899,4 @@
 0899. 🚀 perf: cache repeated calculations
 0900. 🐛 fix: handle 500 error in quiz API
 0901. ✨ feat: add user authentication
+0902. ✨ feat: enable dark mode toggle
