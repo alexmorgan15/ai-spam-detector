@@ -890,3 +890,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0891. ✨ feat: create admin dashboard
 0892. ✅ test: add unit test for quiz service
+0893. 🐛 fix: handle 500 error in quiz API
