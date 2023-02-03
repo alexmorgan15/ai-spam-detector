@@ -886,3 +886,4 @@
 0886. ♻️ chore: clean up unused files
 0887. 📚 docs: add API usage examples
 0888. 🚀 perf: lazy-load components
+0889. 🚀 perf: lazy-load components
