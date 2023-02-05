@@ -884,3 +884,4 @@
 0884. 📚 docs: clarify environment setup
 0885. ♻️ chore: update .gitignore
 0886. ♻️ chore: clean up unused files
+0887. 📚 docs: add API usage examples
