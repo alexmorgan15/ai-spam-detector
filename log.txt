@@ -877,3 +877,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0878. 🔧 refactor: split large controller into smaller functions
 0879. 🎨 style: standardize quote style
+0880. 🐛 fix: fix broken CSS in mobile view
