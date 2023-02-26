@@ -863,3 +863,4 @@
 0863. 🐛 fix: correct typo in registration form
 0864. 🐛 fix: correct typo in registration form
 0865. ♻️ chore: add GitHub actions badge
+0866. 📚 docs: add API usage examples
