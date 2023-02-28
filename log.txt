@@ -861,3 +861,4 @@
 0861. ♻️ chore: clean up unused files
 0862. ♻️ chore: bump dependencies
 0863. 🐛 fix: correct typo in registration form
+0864. 🐛 fix: correct typo in registration form
