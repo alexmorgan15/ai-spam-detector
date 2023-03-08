@@ -853,3 +853,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0854. ♻️ chore: rename env.example
 0855. 🎨 style: reformat files with black
+0856. 🐛 fix: fix null pointer exception on login
