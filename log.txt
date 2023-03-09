@@ -852,3 +852,4 @@
 0852. ✨ feat: enable dark mode toggle
 0853. 🔧 refactor: refactor quiz grading logic
 0854. ♻️ chore: rename env.example
+0855. 🎨 style: reformat files with black
