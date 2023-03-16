@@ -845,3 +845,4 @@
 0845. 🚀 perf: cache repeated calculations
 0846. ✨ feat: implement quiz timer feature
 0847. ♻️ chore: clean up unused files
+0848. 📚 docs: update README with setup steps
