@@ -844,3 +844,4 @@
 0844. 📚 docs: update README with setup steps
 0845. 🚀 perf: cache repeated calculations
 0846. ✨ feat: implement quiz timer feature
+0847. ♻️ chore: clean up unused files
