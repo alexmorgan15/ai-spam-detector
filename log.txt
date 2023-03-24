@@ -837,3 +837,4 @@
 0837. 🚀 perf: cache repeated calculations
 0838. 🎨 style: standardize quote style
 0839. 🎨 style: apply consistent indentation
+0840. 🔧 refactor: refactor quiz grading logic
