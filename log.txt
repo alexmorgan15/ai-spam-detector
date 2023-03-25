@@ -836,3 +836,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0837. 🚀 perf: cache repeated calculations
 0838. 🎨 style: standardize quote style
+0839. 🎨 style: apply consistent indentation
