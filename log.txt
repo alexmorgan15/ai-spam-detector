@@ -832,3 +832,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0833. ✨ feat: add user authentication
 0834. ✅ test: increase coverage on auth module
+0835. 🐛 fix: prevent crash on empty input
