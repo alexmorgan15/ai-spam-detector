@@ -831,3 +831,4 @@
 0831. 📚 docs: clarify environment setup
 0832. 🔧 refactor: remove redundant code blocks
 0833. ✨ feat: add user authentication
+0834. ✅ test: increase coverage on auth module
