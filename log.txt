@@ -817,3 +817,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0818. 🔧 refactor: remove redundant code blocks
 0819. 🚀 perf: reduce image load time
+0820. 📚 docs: add API usage examples
