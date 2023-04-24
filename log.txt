@@ -806,3 +806,4 @@
 0806. 📚 docs: improve code comments in utils
 0807. 🔧 refactor: remove redundant code blocks
 0808. 🚀 perf: optimize database query for quiz results
+0809. ♻️ chore: rename env.example
