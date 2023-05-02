@@ -798,3 +798,4 @@
 0798. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
 0800. 🚀 perf: optimize database query for quiz results
+0801. ✨ feat: enable dark mode toggle
