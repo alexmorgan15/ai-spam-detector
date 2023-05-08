@@ -792,3 +792,4 @@
 0792. 🎨 style: standardize quote style
 0793. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
+0795. 📚 docs: update README with setup steps
