@@ -790,3 +790,4 @@
 0790. 📚 docs: write FAQ section
 0791. 🔧 refactor: clean up auth middleware
 0792. 🎨 style: standardize quote style
+0793. 📚 docs: clarify environment setup
