@@ -789,3 +789,4 @@
 0789. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
 0791. 🔧 refactor: clean up auth middleware
+0792. 🎨 style: standardize quote style
