@@ -788,3 +788,4 @@
 0788. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
+0791. 🔧 refactor: clean up auth middleware
