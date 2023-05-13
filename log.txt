@@ -787,3 +787,4 @@
 0787. ♻️ chore: rename env.example
 0788. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
