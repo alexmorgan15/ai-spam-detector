@@ -786,3 +786,4 @@
 0786. ✨ feat: enable dark mode toggle
 0787. ♻️ chore: rename env.example
 0788. 📚 docs: add API usage examples
+0789. ✨ feat: create admin dashboard
