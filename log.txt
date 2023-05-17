@@ -783,3 +783,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0784. ♻️ chore: clean up unused files
 0785. ✨ feat: enable dark mode toggle
+0786. ✨ feat: enable dark mode toggle
