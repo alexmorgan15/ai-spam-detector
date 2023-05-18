@@ -782,3 +782,4 @@
 0782. 📚 docs: improve code comments in utils
 0783. 🐛 fix: handle 500 error in quiz API
 0784. ♻️ chore: clean up unused files
+0785. ✨ feat: enable dark mode toggle
