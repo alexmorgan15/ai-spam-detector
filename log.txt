@@ -780,3 +780,4 @@
 0780. 📚 docs: add API usage examples
 0781. 🚀 perf: reduce image load time
 0782. 📚 docs: improve code comments in utils
+0783. 🐛 fix: handle 500 error in quiz API
