@@ -772,3 +772,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0773. 📚 docs: document token refresh logic
 0774. 🔧 refactor: refactor quiz grading logic
+0775. 🐛 fix: fix null pointer exception on login
