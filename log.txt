@@ -765,3 +765,4 @@
 0765. ♻️ chore: clean up unused files
 0766. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
+0768. 🎨 style: remove trailing whitespace
