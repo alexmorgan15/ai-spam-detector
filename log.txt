@@ -756,3 +756,4 @@
 0756. ✨ feat: support email verification
 0757. 🔧 refactor: remove redundant code blocks
 0758. 🚀 perf: optimize database query for quiz results
+0759. 🔧 refactor: organize models into subfolders
