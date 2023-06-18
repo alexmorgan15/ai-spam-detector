@@ -751,3 +751,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0752. ✅ test: add integration test for /submit endpoint
 0753. 🔧 refactor: remove redundant code blocks
+0754. 🐛 fix: handle 500 error in quiz API
