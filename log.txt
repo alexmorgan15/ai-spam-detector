@@ -749,3 +749,4 @@
 0749. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0751. 🐛 fix: handle 500 error in quiz API
+0752. ✅ test: add integration test for /submit endpoint
