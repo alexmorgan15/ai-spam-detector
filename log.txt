@@ -744,3 +744,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0745. ✅ test: add unit test for quiz service
 0746. ♻️ chore: add GitHub actions badge
+0747. 🔧 refactor: clean up auth middleware
