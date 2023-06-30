@@ -739,3 +739,4 @@
 0739. 🎨 style: remove trailing whitespace
 0740. 🐛 fix: resolve issue with date parsing
 0741. 🎨 style: apply consistent indentation
+0742. 📚 docs: clarify environment setup
