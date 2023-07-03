@@ -736,3 +736,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0737. 🐛 fix: handle 500 error in quiz API
 0738. 🐛 fix: prevent crash on empty input
+0739. 🎨 style: remove trailing whitespace
