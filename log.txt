@@ -735,3 +735,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0736. 🐛 fix: fix null pointer exception on login
 0737. 🐛 fix: handle 500 error in quiz API
+0738. 🐛 fix: prevent crash on empty input
