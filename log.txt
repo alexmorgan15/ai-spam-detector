@@ -731,3 +731,4 @@
 0731. 🎨 style: standardize quote style
 0732. ♻️ chore: add GitHub actions badge
 0733. 🐛 fix: fix null pointer exception on login
+0734. ✨ feat: add export to CSV option
