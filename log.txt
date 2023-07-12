@@ -727,3 +727,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0728. 🔧 refactor: split large controller into smaller functions
 0729. 🔧 refactor: refactor quiz grading logic
+0730. ✅ test: test user registration edge cases
