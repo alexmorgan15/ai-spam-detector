@@ -710,3 +710,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
 0712. 🎨 style: apply consistent indentation
+0713. 🐛 fix: handle 500 error in quiz API
