@@ -707,3 +707,4 @@
 0707. 🎨 style: apply consistent indentation
 0708. ✅ test: add integration test for /submit endpoint
 0709. ♻️ chore: bump dependencies
+0710. 🐛 fix: fix broken CSS in mobile view
