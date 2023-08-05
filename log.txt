@@ -703,3 +703,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0704. 🚀 perf: cache repeated calculations
 0705. 🔧 refactor: refactor quiz grading logic
+0706. ✨ feat: support email verification
