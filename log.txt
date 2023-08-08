@@ -700,3 +700,4 @@
 0700. 🎨 style: rename variables for clarity
 0701. 🔧 refactor: clean up auth middleware
 0702. ✨ feat: add user authentication
+0703. 🔧 refactor: clean up auth middleware
