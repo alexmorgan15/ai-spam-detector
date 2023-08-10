@@ -698,3 +698,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0699. 🎨 style: standardize quote style
 0700. 🎨 style: rename variables for clarity
+0701. 🔧 refactor: clean up auth middleware
