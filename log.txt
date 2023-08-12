@@ -696,3 +696,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0697. ♻️ chore: bump dependencies
 0698. 🐛 fix: handle 500 error in quiz API
+0699. 🎨 style: standardize quote style
