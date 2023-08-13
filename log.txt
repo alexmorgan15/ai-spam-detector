@@ -695,3 +695,4 @@
 0695. ✨ feat: create admin dashboard
 0696. 🔧 refactor: clean up auth middleware
 0697. ♻️ chore: bump dependencies
+0698. 🐛 fix: handle 500 error in quiz API
