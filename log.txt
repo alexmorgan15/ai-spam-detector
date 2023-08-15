@@ -693,3 +693,4 @@
 0693. 📚 docs: add API usage examples
 0694. 🎨 style: rename variables for clarity
 0695. ✨ feat: create admin dashboard
+0696. 🔧 refactor: clean up auth middleware
