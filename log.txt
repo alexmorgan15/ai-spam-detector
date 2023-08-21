@@ -687,3 +687,4 @@
 0687. 🎨 style: remove trailing whitespace
 0688. 🚀 perf: reduce image load time
 0689. 🎨 style: reformat files with black
+0690. 🚀 perf: lazy-load components
