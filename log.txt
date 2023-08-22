@@ -686,3 +686,4 @@
 0686. 🎨 style: standardize quote style
 0687. 🎨 style: remove trailing whitespace
 0688. 🚀 perf: reduce image load time
+0689. 🎨 style: reformat files with black
