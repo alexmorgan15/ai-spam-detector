@@ -683,3 +683,4 @@
 0683. ✅ test: mock database connection in test suite
 0684. 🚀 perf: reduce image load time
 0685. ✅ test: test user registration edge cases
+0686. 🎨 style: standardize quote style
