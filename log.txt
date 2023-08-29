@@ -679,3 +679,4 @@
 0679. ♻️ chore: bump dependencies
 0680. ♻️ chore: add GitHub actions badge
 0681. ✨ feat: create admin dashboard
+0682. ♻️ chore: rename env.example
