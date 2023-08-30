@@ -678,3 +678,4 @@
 0678. ✨ feat: add user authentication
 0679. ♻️ chore: bump dependencies
 0680. ♻️ chore: add GitHub actions badge
+0681. ✨ feat: create admin dashboard
