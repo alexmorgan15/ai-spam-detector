@@ -674,3 +674,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0675. 🔧 refactor: organize models into subfolders
 0676. 🐛 fix: prevent crash on empty input
+0677. 📚 docs: add API usage examples
