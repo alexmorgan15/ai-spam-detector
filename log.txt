@@ -669,3 +669,4 @@
 0669. ✨ feat: enable dark mode toggle
 0670. ✨ feat: add export to CSV option
 0671. 🐛 fix: fix null pointer exception on login
+0672. 🐛 fix: fix broken CSS in mobile view
