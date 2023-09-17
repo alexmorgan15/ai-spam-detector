@@ -660,3 +660,4 @@
 0660. 🐛 fix: correct typo in registration form
 0661. ✅ test: add integration test for /submit endpoint
 0662. ♻️ chore: clean up unused files
+0663. 🚀 perf: reduce image load time
