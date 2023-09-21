@@ -656,3 +656,4 @@
 0656. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
 0658. 🎨 style: rename variables for clarity
+0659. 📚 docs: add API usage examples
