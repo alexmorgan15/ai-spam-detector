@@ -654,3 +654,4 @@
 0654. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
 0656. 🎨 style: apply consistent indentation
+0657. 🎨 style: standardize quote style
