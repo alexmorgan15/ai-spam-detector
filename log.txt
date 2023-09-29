@@ -648,3 +648,4 @@
 0648. ♻️ chore: bump dependencies
 0649. 📚 docs: update README with setup steps
 0650. ✅ test: add unit test for quiz service
+0651. ✨ feat: enable dark mode toggle
