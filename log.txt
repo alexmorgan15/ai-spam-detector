@@ -646,3 +646,4 @@
 0646. ✅ test: test user registration edge cases
 0647. 🐛 fix: prevent crash on empty input
 0648. ♻️ chore: bump dependencies
+0649. 📚 docs: update README with setup steps
