@@ -636,3 +636,4 @@
 0636. ✅ test: increase coverage on auth module
 0637. 🎨 style: apply consistent indentation
 0638. 📚 docs: improve code comments in utils
+0639. 🐛 fix: correct typo in registration form
