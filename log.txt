@@ -633,3 +633,4 @@
 0633. ✨ feat: add user authentication
 0634. 🎨 style: reformat files with black
 0635. 🎨 style: apply consistent indentation
+0636. ✅ test: increase coverage on auth module
