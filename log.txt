@@ -631,3 +631,4 @@
 0631. ✨ feat: create admin dashboard
 0632. 🎨 style: remove trailing whitespace
 0633. ✨ feat: add user authentication
+0634. 🎨 style: reformat files with black
