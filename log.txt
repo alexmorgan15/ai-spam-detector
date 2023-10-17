@@ -630,3 +630,4 @@
 0630. 🚀 perf: lazy-load components
 0631. ✨ feat: create admin dashboard
 0632. 🎨 style: remove trailing whitespace
+0633. ✨ feat: add user authentication
