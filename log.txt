@@ -624,3 +624,4 @@
 0624. ✅ test: add unit test for quiz service
 0625. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
+0627. 📚 docs: document token refresh logic
