@@ -615,3 +615,4 @@
 0615. 🐛 fix: correct typo in registration form
 0616. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
+0618. ✨ feat: support email verification
