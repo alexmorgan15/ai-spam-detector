@@ -607,3 +607,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0608. 🔧 refactor: remove redundant code blocks
 0609. 🐛 fix: handle 500 error in quiz API
+0610. 🚀 perf: lazy-load components
