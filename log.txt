@@ -605,3 +605,4 @@
 0605. ✨ feat: support email verification
 0606. 📚 docs: improve code comments in utils
 0607. 🐛 fix: prevent crash on empty input
+0608. 🔧 refactor: remove redundant code blocks
