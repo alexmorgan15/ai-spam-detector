@@ -596,3 +596,4 @@
 0596. ♻️ chore: update .gitignore
 0597. 🚀 perf: cache repeated calculations
 0598. 🔧 refactor: remove redundant code blocks
+0599. ✅ test: test user registration edge cases
