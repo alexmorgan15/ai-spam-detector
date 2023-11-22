@@ -594,3 +594,4 @@
 0594. 🎨 style: reformat files with black
 0595. ✨ feat: enable dark mode toggle
 0596. ♻️ chore: update .gitignore
+0597. 🚀 perf: cache repeated calculations
