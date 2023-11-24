@@ -592,3 +592,4 @@
 0592. 📚 docs: add API usage examples
 0593. 🐛 fix: correct typo in registration form
 0594. 🎨 style: reformat files with black
+0595. ✨ feat: enable dark mode toggle
