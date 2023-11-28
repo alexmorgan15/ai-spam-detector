@@ -588,3 +588,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0589. 🐛 fix: fix broken CSS in mobile view
 0590. 🐛 fix: fix null pointer exception on login
+0591. ♻️ chore: clean up unused files
