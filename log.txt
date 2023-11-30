@@ -586,3 +586,4 @@
 0586. 🎨 style: remove trailing whitespace
 0587. 🔧 refactor: remove redundant code blocks
 0588. 🔧 refactor: organize models into subfolders
+0589. 🐛 fix: fix broken CSS in mobile view
