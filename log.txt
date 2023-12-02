@@ -584,3 +584,4 @@
 0584. 🚀 perf: lazy-load components
 0585. 🚀 perf: lazy-load components
 0586. 🎨 style: remove trailing whitespace
+0587. 🔧 refactor: remove redundant code blocks
