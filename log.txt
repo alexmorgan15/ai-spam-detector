@@ -581,3 +581,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0582. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
+0584. 🚀 perf: lazy-load components
