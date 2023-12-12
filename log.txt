@@ -574,3 +574,4 @@
 0574. ✨ feat: enable dark mode toggle
 0575. ✅ test: add unit test for quiz service
 0576. ♻️ chore: update .gitignore
+0577. ✨ feat: implement quiz timer feature
