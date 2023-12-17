@@ -569,3 +569,4 @@
 0569. 📚 docs: document token refresh logic
 0570. 🎨 style: apply consistent indentation
 0571. 🔧 refactor: clean up auth middleware
+0572. ✨ feat: add user authentication
