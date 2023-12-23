@@ -563,3 +563,4 @@
 0563. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
 0565. ♻️ chore: add GitHub actions badge
+0566. 📚 docs: write FAQ section
