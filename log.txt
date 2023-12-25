@@ -561,3 +561,4 @@
 0561. 📚 docs: write FAQ section
 0562. 🔧 refactor: clean up auth middleware
 0563. 📚 docs: clarify environment setup
+0564. 📚 docs: clarify environment setup
