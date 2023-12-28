@@ -558,3 +558,4 @@
 0558. ✨ feat: enable dark mode toggle
 0559. 🔧 refactor: split large controller into smaller functions
 0560. 🎨 style: rename variables for clarity
+0561. 📚 docs: write FAQ section
