@@ -554,3 +554,4 @@
 0554. 📚 docs: improve code comments in utils
 0555. ✨ feat: create admin dashboard
 0556. ✨ feat: support email verification
+0557. 🔧 refactor: clean up auth middleware
