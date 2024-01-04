@@ -551,3 +551,4 @@
 0551. 📚 docs: write FAQ section
 0552. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
+0554. 📚 docs: improve code comments in utils
