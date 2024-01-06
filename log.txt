@@ -549,3 +549,4 @@
 0549. ✨ feat: enable dark mode toggle
 0550. 🔧 refactor: split large controller into smaller functions
 0551. 📚 docs: write FAQ section
+0552. 🐛 fix: fix null pointer exception on login
