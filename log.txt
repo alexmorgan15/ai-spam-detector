@@ -542,3 +542,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0543. ✨ feat: support email verification
 0544. 🔧 refactor: organize models into subfolders
+0545. 🎨 style: standardize quote style
