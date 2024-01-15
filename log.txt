@@ -540,3 +540,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0541. 🐛 fix: correct typo in registration form
 0542. 🔧 refactor: organize models into subfolders
+0543. ✨ feat: support email verification
