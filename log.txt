@@ -530,3 +530,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0531. 🐛 fix: prevent crash on empty input
 0532. 🔧 refactor: split large controller into smaller functions
+0533. ♻️ chore: add GitHub actions badge
