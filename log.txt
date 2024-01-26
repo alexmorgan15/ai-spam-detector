@@ -529,3 +529,4 @@
 0529. 📚 docs: write FAQ section
 0530. 🔧 refactor: refactor quiz grading logic
 0531. 🐛 fix: prevent crash on empty input
+0532. 🔧 refactor: split large controller into smaller functions
