@@ -526,3 +526,4 @@
 0526. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
 0528. ♻️ chore: clean up unused files
+0529. 📚 docs: write FAQ section
