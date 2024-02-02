@@ -522,3 +522,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
 0524. ♻️ chore: rename env.example
+0525. ✅ test: mock database connection in test suite
