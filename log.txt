@@ -521,3 +521,4 @@
 0521. 🎨 style: standardize quote style
 0522. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
+0524. ♻️ chore: rename env.example
