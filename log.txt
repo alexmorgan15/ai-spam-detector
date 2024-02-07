@@ -517,3 +517,4 @@
 0517. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
 0519. 📚 docs: document token refresh logic
+0520. 🐛 fix: fix null pointer exception on login
