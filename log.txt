@@ -510,3 +510,4 @@
 0510. 🎨 style: rename variables for clarity
 0511. 🐛 fix: fix broken CSS in mobile view
 0512. 🚀 perf: reduce image load time
+0513. ♻️ chore: bump dependencies
