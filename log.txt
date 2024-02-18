@@ -506,3 +506,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0507. 🔧 refactor: clean up auth middleware
 0508. ✅ test: add unit test for quiz service
+0509. ♻️ chore: bump dependencies
