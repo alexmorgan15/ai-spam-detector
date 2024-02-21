@@ -503,3 +503,4 @@
 0503. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
 0505. ♻️ chore: add GitHub actions badge
+0506. 🐛 fix: handle 500 error in quiz API
