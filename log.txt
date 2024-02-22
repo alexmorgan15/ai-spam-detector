@@ -502,3 +502,4 @@
 0502. 📚 docs: update README with setup steps
 0503. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
+0505. ♻️ chore: add GitHub actions badge
