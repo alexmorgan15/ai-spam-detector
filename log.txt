@@ -496,3 +496,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0497. 🔧 refactor: refactor quiz grading logic
 0498. ✅ test: mock database connection in test suite
+0499. 🎨 style: reformat files with black
