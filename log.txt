@@ -490,3 +490,4 @@
 0490. ✨ feat: create admin dashboard
 0491. 🚀 perf: lazy-load components
 0492. 🎨 style: remove trailing whitespace
+0493. ✨ feat: add user authentication
