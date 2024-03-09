@@ -486,3 +486,4 @@
 0486. ✨ feat: add export to CSV option
 0487. 🎨 style: reformat files with black
 0488. ♻️ chore: add GitHub actions badge
+0489. 🔧 refactor: organize models into subfolders
