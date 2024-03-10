@@ -485,3 +485,4 @@
 0485. 📚 docs: update README with setup steps
 0486. ✨ feat: add export to CSV option
 0487. 🎨 style: reformat files with black
+0488. ♻️ chore: add GitHub actions badge
