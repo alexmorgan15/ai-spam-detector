@@ -478,3 +478,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0479. 🐛 fix: fix null pointer exception on login
 0480. ♻️ chore: add GitHub actions badge
+0481. ✅ test: add unit test for quiz service
