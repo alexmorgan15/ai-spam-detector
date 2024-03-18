@@ -477,3 +477,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0478. 🐛 fix: resolve issue with date parsing
 0479. 🐛 fix: fix null pointer exception on login
+0480. ♻️ chore: add GitHub actions badge
