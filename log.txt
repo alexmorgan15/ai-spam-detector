@@ -472,3 +472,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
 0474. ✅ test: add unit test for quiz service
+0475. 🔧 refactor: clean up auth middleware
