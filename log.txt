@@ -470,3 +470,4 @@
 0470. 🎨 style: remove trailing whitespace
 0471. ✨ feat: support email verification
 0472. 🐛 fix: fix null pointer exception on login
+0473. 📚 docs: write FAQ section
