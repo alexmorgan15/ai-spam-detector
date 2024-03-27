@@ -468,3 +468,4 @@
 0468. 📚 docs: update README with setup steps
 0469. 🚀 perf: lazy-load components
 0470. 🎨 style: remove trailing whitespace
+0471. ✨ feat: support email verification
