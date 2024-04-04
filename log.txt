@@ -460,3 +460,4 @@
 0460. 📚 docs: write FAQ section
 0461. ✨ feat: add user authentication
 0462. ♻️ chore: update .gitignore
+0463. 🚀 perf: reduce image load time
