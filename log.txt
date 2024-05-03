@@ -431,3 +431,4 @@
 0431. 🎨 style: reformat files with black
 0432. 🎨 style: apply consistent indentation
 0433. 🐛 fix: prevent crash on empty input
+0434. 📚 docs: document token refresh logic
