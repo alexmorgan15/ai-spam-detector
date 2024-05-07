@@ -427,3 +427,4 @@
 0427. ✅ test: mock database connection in test suite
 0428. 🐛 fix: fix null pointer exception on login
 0429. ✨ feat: add user authentication
+0430. 🐛 fix: fix null pointer exception on login
