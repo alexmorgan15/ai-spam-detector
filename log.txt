@@ -423,3 +423,4 @@
 0423. ✅ test: mock database connection in test suite
 0424. ✨ feat: add user authentication
 0425. 🔧 refactor: refactor quiz grading logic
+0426. ✅ test: add integration test for /submit endpoint
