@@ -415,3 +415,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0416. 🎨 style: rename variables for clarity
 0417. 🎨 style: rename variables for clarity
+0418. ✅ test: mock database connection in test suite
