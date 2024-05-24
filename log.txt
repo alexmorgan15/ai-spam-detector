@@ -410,3 +410,4 @@
 0410. 🎨 style: reformat files with black
 0411. ✅ test: add unit test for quiz service
 0412. ✅ test: increase coverage on auth module
+0413. ✅ test: add integration test for /submit endpoint
