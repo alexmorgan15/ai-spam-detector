@@ -406,3 +406,4 @@
 0406. ✨ feat: add export to CSV option
 0407. 🚀 perf: cache repeated calculations
 0408. ♻️ chore: add GitHub actions badge
+0409. 🚀 perf: lazy-load components
