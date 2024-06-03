@@ -400,3 +400,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0401. 🚀 perf: reduce image load time
 0402. 🎨 style: reformat files with black
+0403. ✅ test: mock database connection in test suite
