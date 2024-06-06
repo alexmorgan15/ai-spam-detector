@@ -397,3 +397,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0398. 🚀 perf: cache repeated calculations
 0399. ✅ test: mock database connection in test suite
+0400. 🐛 fix: fix null pointer exception on login
