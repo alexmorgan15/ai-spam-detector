@@ -392,3 +392,4 @@
 0392. 🎨 style: remove trailing whitespace
 0393. 🚀 perf: lazy-load components
 0394. 🚀 perf: lazy-load components
+0395. 📚 docs: write FAQ section
