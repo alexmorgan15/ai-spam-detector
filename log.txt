@@ -388,3 +388,4 @@
 0388. 🎨 style: reformat files with black
 0389. 📚 docs: improve code comments in utils
 0390. 🎨 style: standardize quote style
+0391. 🐛 fix: fix null pointer exception on login
