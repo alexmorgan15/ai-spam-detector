@@ -384,3 +384,4 @@
 0384. 📚 docs: clarify environment setup
 0385. ♻️ chore: clean up unused files
 0386. 🚀 perf: optimize database query for quiz results
+0387. ✨ feat: enable dark mode toggle
