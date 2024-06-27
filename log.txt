@@ -376,3 +376,4 @@
 0376. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
 0378. 🐛 fix: prevent crash on empty input
+0379. ✨ feat: support email verification
