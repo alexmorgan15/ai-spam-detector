@@ -374,3 +374,4 @@
 0374. 🎨 style: standardize quote style
 0375. 🐛 fix: handle 500 error in quiz API
 0376. 🎨 style: apply consistent indentation
+0377. ✨ feat: add user authentication
