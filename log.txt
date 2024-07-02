@@ -371,3 +371,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0372. ✨ feat: add user authentication
 0373. 📚 docs: document token refresh logic
+0374. 🎨 style: standardize quote style
