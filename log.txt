@@ -369,3 +369,4 @@
 0369. 🎨 style: standardize quote style
 0370. 🚀 perf: reduce image load time
 0371. ✅ test: add integration test for /submit endpoint
+0372. ✨ feat: add user authentication
