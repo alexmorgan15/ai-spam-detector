@@ -364,3 +364,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
 0366. 🔧 refactor: remove redundant code blocks
+0367. 🐛 fix: fix null pointer exception on login
