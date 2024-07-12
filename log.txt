@@ -361,3 +361,4 @@
 0361. ✨ feat: support email verification
 0362. 📚 docs: add API usage examples
 0363. 📚 docs: clarify environment setup
+0364. 🐛 fix: resolve issue with date parsing
