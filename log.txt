@@ -360,3 +360,4 @@
 0360. ✨ feat: add export to CSV option
 0361. ✨ feat: support email verification
 0362. 📚 docs: add API usage examples
+0363. 📚 docs: clarify environment setup
