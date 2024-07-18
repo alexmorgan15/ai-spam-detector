@@ -355,3 +355,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0356. 📚 docs: write FAQ section
 0357. ✅ test: add unit test for quiz service
+0358. 🚀 perf: reduce image load time
