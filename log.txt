@@ -350,3 +350,4 @@
 0350. 🚀 perf: cache repeated calculations
 0351. ✨ feat: add export to CSV option
 0352. ✨ feat: add export to CSV option
+0353. ♻️ chore: rename env.example
