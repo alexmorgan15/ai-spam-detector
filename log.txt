@@ -347,3 +347,4 @@
 0347. ♻️ chore: update .gitignore
 0348. ✅ test: test user registration edge cases
 0349. ✅ test: increase coverage on auth module
+0350. 🚀 perf: cache repeated calculations
