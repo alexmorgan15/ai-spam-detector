@@ -344,3 +344,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0345. 📚 docs: document token refresh logic
 0346. ✅ test: mock database connection in test suite
+0347. ♻️ chore: update .gitignore
