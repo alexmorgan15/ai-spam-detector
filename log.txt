@@ -341,3 +341,4 @@
 0341. 🚀 perf: lazy-load components
 0342. 🚀 perf: cache repeated calculations
 0343. 🚀 perf: optimize database query for quiz results
+0344. ♻️ chore: add GitHub actions badge
