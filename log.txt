@@ -336,3 +336,4 @@
 0336. ✨ feat: add export to CSV option
 0337. 📚 docs: document token refresh logic
 0338. ♻️ chore: add GitHub actions badge
+0339. 📚 docs: update README with setup steps
