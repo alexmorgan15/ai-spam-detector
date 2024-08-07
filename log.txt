@@ -335,3 +335,4 @@
 0335. ♻️ chore: update .gitignore
 0336. ✨ feat: add export to CSV option
 0337. 📚 docs: document token refresh logic
+0338. ♻️ chore: add GitHub actions badge
