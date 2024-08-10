@@ -332,3 +332,4 @@
 0332. 🎨 style: standardize quote style
 0333. 🚀 perf: cache repeated calculations
 0334. 🚀 perf: cache repeated calculations
+0335. ♻️ chore: update .gitignore
