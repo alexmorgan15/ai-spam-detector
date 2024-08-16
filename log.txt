@@ -326,3 +326,4 @@
 0326. 🚀 perf: cache repeated calculations
 0327. 🔧 refactor: split large controller into smaller functions
 0328. 🐛 fix: resolve issue with date parsing
+0329. 📚 docs: update README with setup steps
