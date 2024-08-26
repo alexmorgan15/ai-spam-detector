@@ -316,3 +316,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0317. ✅ test: test user registration edge cases
 0318. 🔧 refactor: refactor quiz grading logic
+0319. 🐛 fix: handle 500 error in quiz API
