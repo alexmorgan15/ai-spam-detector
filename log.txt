@@ -309,3 +309,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0310. 🔧 refactor: refactor quiz grading logic
 0311. 🎨 style: apply consistent indentation
+0312. ✨ feat: add user authentication
