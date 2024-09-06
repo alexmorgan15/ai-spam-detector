@@ -305,3 +305,4 @@
 0305. ✨ feat: enable dark mode toggle
 0306. 🎨 style: apply consistent indentation
 0307. ✨ feat: support email verification
+0308. 🚀 perf: reduce image load time
