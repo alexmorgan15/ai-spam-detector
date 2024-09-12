@@ -299,3 +299,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0300. ✨ feat: add export to CSV option
 0301. 🎨 style: apply consistent indentation
+0302. ✨ feat: implement quiz timer feature
