@@ -298,3 +298,4 @@
 0298. ♻️ chore: update .gitignore
 0299. 🐛 fix: resolve issue with date parsing
 0300. ✨ feat: add export to CSV option
+0301. 🎨 style: apply consistent indentation
