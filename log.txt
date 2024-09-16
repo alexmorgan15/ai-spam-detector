@@ -295,3 +295,4 @@
 0295. 🎨 style: remove trailing whitespace
 0296. 🔧 refactor: organize models into subfolders
 0297. 🎨 style: remove trailing whitespace
+0298. ♻️ chore: update .gitignore
