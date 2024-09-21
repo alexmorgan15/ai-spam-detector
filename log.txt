@@ -290,3 +290,4 @@
 0290. ✅ test: test user registration edge cases
 0291. 📚 docs: write FAQ section
 0292. 📚 docs: clarify environment setup
+0293. ✅ test: add integration test for /submit endpoint
