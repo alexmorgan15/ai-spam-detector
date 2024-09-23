@@ -288,3 +288,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0289. 🐛 fix: resolve issue with date parsing
 0290. ✅ test: test user registration edge cases
+0291. 📚 docs: write FAQ section
