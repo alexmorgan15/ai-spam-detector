@@ -284,3 +284,4 @@
 0284. ✨ feat: implement quiz timer feature
 0285. 🐛 fix: resolve issue with date parsing
 0286. ✅ test: mock database connection in test suite
+0287. 📚 docs: write FAQ section
