@@ -275,3 +275,4 @@
 0275. 🎨 style: standardize quote style
 0276. ✅ test: add integration test for /submit endpoint
 0277. 🎨 style: standardize quote style
+0278. 🔧 refactor: clean up auth middleware
