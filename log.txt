@@ -272,3 +272,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0273. 🚀 perf: reduce image load time
 0274. 🔧 refactor: refactor quiz grading logic
+0275. 🎨 style: standardize quote style
