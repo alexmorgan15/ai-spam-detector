@@ -269,3 +269,4 @@
 0269. ✅ test: test user registration edge cases
 0270. ♻️ chore: rename env.example
 0271. ✅ test: add unit test for quiz service
+0272. 🔧 refactor: remove redundant code blocks
