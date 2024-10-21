@@ -260,3 +260,4 @@
 0260. ✨ feat: create admin dashboard
 0261. 🔧 refactor: refactor quiz grading logic
 0262. 🎨 style: remove trailing whitespace
+0263. 📚 docs: add API usage examples
