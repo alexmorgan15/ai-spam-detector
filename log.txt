@@ -259,3 +259,4 @@
 0259. 🚀 perf: lazy-load components
 0260. ✨ feat: create admin dashboard
 0261. 🔧 refactor: refactor quiz grading logic
+0262. 🎨 style: remove trailing whitespace
