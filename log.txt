@@ -255,3 +255,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0256. ✅ test: mock database connection in test suite
 0257. 📚 docs: clarify environment setup
+0258. 🐛 fix: prevent crash on empty input
