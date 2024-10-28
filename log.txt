@@ -253,3 +253,4 @@
 0253. 📚 docs: update README with setup steps
 0254. 🚀 perf: reduce image load time
 0255. 🔧 refactor: refactor quiz grading logic
+0256. ✅ test: mock database connection in test suite
