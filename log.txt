@@ -250,3 +250,4 @@
 0250. 📚 docs: update README with setup steps
 0251. ♻️ chore: update .gitignore
 0252. 🎨 style: remove trailing whitespace
+0253. 📚 docs: update README with setup steps
