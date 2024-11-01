@@ -249,3 +249,4 @@
 0249. ✅ test: increase coverage on auth module
 0250. 📚 docs: update README with setup steps
 0251. ♻️ chore: update .gitignore
+0252. 🎨 style: remove trailing whitespace
