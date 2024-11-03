@@ -247,3 +247,4 @@
 0247. 🎨 style: apply consistent indentation
 0248. 🐛 fix: handle 500 error in quiz API
 0249. ✅ test: increase coverage on auth module
+0250. 📚 docs: update README with setup steps
