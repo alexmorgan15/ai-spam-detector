@@ -245,3 +245,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0246. ✅ test: add integration test for /submit endpoint
 0247. 🎨 style: apply consistent indentation
+0248. 🐛 fix: handle 500 error in quiz API
