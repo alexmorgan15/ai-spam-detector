@@ -238,3 +238,4 @@
 0238. 🎨 style: apply consistent indentation
 0239. 🎨 style: standardize quote style
 0240. 🔧 refactor: remove redundant code blocks
+0241. 📚 docs: add API usage examples
