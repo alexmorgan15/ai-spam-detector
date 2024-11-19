@@ -231,3 +231,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0232. 🎨 style: apply consistent indentation
 0233. 🚀 perf: lazy-load components
+0234. ♻️ chore: rename env.example
