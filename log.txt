@@ -228,3 +228,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0229. 🚀 perf: optimize database query for quiz results
 0230. ✨ feat: create admin dashboard
+0231. 🔧 refactor: clean up auth middleware
