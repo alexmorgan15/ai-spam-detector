@@ -221,3 +221,4 @@
 0221. ✨ feat: add user authentication
 0222. 🐛 fix: handle 500 error in quiz API
 0223. 🔧 refactor: remove redundant code blocks
+0224. 🐛 fix: fix broken CSS in mobile view
