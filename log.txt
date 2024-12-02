@@ -218,3 +218,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0219. ✅ test: increase coverage on auth module
 0220. 🐛 fix: fix null pointer exception on login
+0221. ✨ feat: add user authentication
