@@ -216,3 +216,4 @@
 0216. 🎨 style: rename variables for clarity
 0217. 🚀 perf: reduce image load time
 0218. 🔧 refactor: clean up auth middleware
+0219. ✅ test: increase coverage on auth module
