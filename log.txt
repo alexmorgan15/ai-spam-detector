@@ -214,3 +214,4 @@
 0214. 📚 docs: improve code comments in utils
 0215. 🎨 style: reformat files with black
 0216. 🎨 style: rename variables for clarity
+0217. 🚀 perf: reduce image load time
