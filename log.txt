@@ -205,3 +205,4 @@
 0205. 📚 docs: update README with setup steps
 0206. 🐛 fix: handle 500 error in quiz API
 0207. 🐛 fix: prevent crash on empty input
+0208. 🔧 refactor: clean up auth middleware
