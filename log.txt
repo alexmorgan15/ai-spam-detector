@@ -202,3 +202,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0203. 🚀 perf: lazy-load components
 0204. 🎨 style: standardize quote style
+0205. 📚 docs: update README with setup steps
