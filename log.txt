@@ -197,3 +197,4 @@
 0197. 📚 docs: update README with setup steps
 0198. 📚 docs: clarify environment setup
 0199. ✨ feat: create admin dashboard
+0200. 🐛 fix: handle 500 error in quiz API
