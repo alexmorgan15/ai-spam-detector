@@ -195,3 +195,4 @@
 0195. 📚 docs: clarify environment setup
 0196. ♻️ chore: bump dependencies
 0197. 📚 docs: update README with setup steps
+0198. 📚 docs: clarify environment setup
