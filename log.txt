@@ -191,3 +191,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0192. ✨ feat: enable dark mode toggle
 0193. 🚀 perf: optimize database query for quiz results
+0194. 🎨 style: standardize quote style
