@@ -186,3 +186,4 @@
 0186. ✅ test: test user registration edge cases
 0187. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
+0189. 📚 docs: clarify environment setup
