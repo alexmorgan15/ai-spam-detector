@@ -184,3 +184,4 @@
 0184. 📚 docs: improve code comments in utils
 0185. 📚 docs: write FAQ section
 0186. ✅ test: test user registration edge cases
+0187. ✨ feat: support email verification
