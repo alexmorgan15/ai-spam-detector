@@ -178,3 +178,4 @@
 0178. ✨ feat: support email verification
 0179. 🔧 refactor: split large controller into smaller functions
 0180. ✨ feat: add export to CSV option
+0181. ♻️ chore: add GitHub actions badge
