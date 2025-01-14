@@ -175,3 +175,4 @@
 0175. 📚 docs: add API usage examples
 0176. 🔧 refactor: remove redundant code blocks
 0177. 📚 docs: add API usage examples
+0178. ✨ feat: support email verification
