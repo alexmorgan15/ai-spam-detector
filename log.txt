@@ -174,3 +174,4 @@
 0174. 📚 docs: clarify environment setup
 0175. 📚 docs: add API usage examples
 0176. 🔧 refactor: remove redundant code blocks
+0177. 📚 docs: add API usage examples
