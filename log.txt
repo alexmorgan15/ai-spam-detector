@@ -172,3 +172,4 @@
 0172. 📚 docs: add API usage examples
 0173. 🚀 perf: cache repeated calculations
 0174. 📚 docs: clarify environment setup
+0175. 📚 docs: add API usage examples
