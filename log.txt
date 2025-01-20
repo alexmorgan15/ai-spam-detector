@@ -169,3 +169,4 @@
 0169. 📚 docs: add API usage examples
 0170. ✅ test: increase coverage on auth module
 0171. 🐛 fix: fix broken CSS in mobile view
+0172. 📚 docs: add API usage examples
