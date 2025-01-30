@@ -159,3 +159,4 @@
 0159. 🚀 perf: lazy-load components
 0160. ♻️ chore: bump dependencies
 0161. ✨ feat: create admin dashboard
+0162. ♻️ chore: add GitHub actions badge
