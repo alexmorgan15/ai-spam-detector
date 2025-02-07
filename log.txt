@@ -151,3 +151,4 @@
 0151. ✅ test: add unit test for quiz service
 0152. ✨ feat: add user authentication
 0153. ♻️ chore: rename env.example
+0154. 🐛 fix: prevent crash on empty input
