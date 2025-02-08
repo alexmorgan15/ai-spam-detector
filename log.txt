@@ -150,3 +150,4 @@
 0150. 🎨 style: remove trailing whitespace
 0151. ✅ test: add unit test for quiz service
 0152. ✨ feat: add user authentication
+0153. ♻️ chore: rename env.example
