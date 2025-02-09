@@ -149,3 +149,4 @@
 0149. ✨ feat: add export to CSV option
 0150. 🎨 style: remove trailing whitespace
 0151. ✅ test: add unit test for quiz service
+0152. ✨ feat: add user authentication
