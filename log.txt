@@ -147,3 +147,4 @@
 0147. ♻️ chore: bump dependencies
 0148. 🔧 refactor: organize models into subfolders
 0149. ✨ feat: add export to CSV option
+0150. 🎨 style: remove trailing whitespace
