@@ -130,3 +130,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0131. 📚 docs: write FAQ section
 0132. ✅ test: add unit test for quiz service
+0133. 🐛 fix: fix null pointer exception on login
