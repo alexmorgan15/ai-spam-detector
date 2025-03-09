@@ -121,3 +121,4 @@
 0121. ✨ feat: support email verification
 0122. ✨ feat: support email verification
 0123. ✨ feat: implement quiz timer feature
+0124. 🎨 style: reformat files with black
