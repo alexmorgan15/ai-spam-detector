@@ -114,3 +114,4 @@
 0114. ♻️ chore: update .gitignore
 0115. 🚀 perf: reduce image load time
 0116. ✨ feat: support email verification
+0117. ✅ test: increase coverage on auth module
