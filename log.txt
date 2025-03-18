@@ -112,3 +112,4 @@
 0112. ✨ feat: enable dark mode toggle
 0113. ✨ feat: add user authentication
 0114. ♻️ chore: update .gitignore
+0115. 🚀 perf: reduce image load time
