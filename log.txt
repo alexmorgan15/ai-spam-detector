@@ -104,3 +104,4 @@
 0104. 🎨 style: apply consistent indentation
 0105. 🐛 fix: correct typo in registration form
 0106. 🎨 style: reformat files with black
+0107. 🐛 fix: prevent crash on empty input
