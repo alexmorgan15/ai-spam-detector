@@ -1,0 +1,114 @@
+<!doctype html>
+<html id="popup">
+
+<head>
+  <!-- License: GPL-v2 -->
+  <meta charset="utf-8">
+  <style>
+    html {
+      box-sizing: content-box !important;
+    }
+
+    html, body {
+      height: auto !important;
+      -webkit-user-select: none;
+      user-select: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    ul {
+      margin: 1.5ex;
+      margin-right: 2ex;
+      padding: 0;
+      display: grid;
+      grid-template-columns: auto;
+      list-style-type: none;
+      min-width: 14em;
+    }
+
+    li {
+      display: flex;
+      margin: 0;
+      padding: 1ex;
+      font-size: 110%;
+      vertical-align: center;
+      align-items: center;
+      border-radius: 4px;
+      cursor: default;
+      white-space: nowrap;
+    }
+
+    li.sep {
+      display: inline-block;
+      padding: 0;
+    }
+
+    li:not(.sep):hover {
+      background: Highlight;
+      color: HighlightText;
+    }
+
+    li>.icon,
+    li>img {
+      font-size: 16px;
+      line-height: 16px;
+      margin-right: 1ex;
+      width: 16px;
+      height: 16px;
+      object-fit: contain;
+    }
+
+    #single:not(:hover)>.icon-add {
+      color: var(--add-color);
+    }
+  </style>
+  <style>
+    @import url(/style/common.css);
+  </style>
+  <script defer src="/bundles/content-popup.js"></script>
+</head>
+
+<body>
+  <ul>
+    <li id="regular" data-action="do-regular">
+      <img srcset="/style/button-regular.png, /style/button-regular@2x.png 2x">
+      <span data-i18n="dta.regular"></span>
+    </li>
+    <li id="turbo" data-action="do-turbo">
+      <img srcset="/style/button-turbo.png, /style/button-turbo@2x.png 2x">
+      <span data-i18n="dta.turbo"></span>
+    </li>
+    <li class="sep">
+      <hr>
+    </li>
+    <li id="regular-all" data-action="do-regular-all">
+      <img srcset="/style/button-regular.png, /style/button-regular@2x.png 2x">
+      <span data-i18n="dta-regular-all"></span>
+    </li>
+    <li id="turbo" data-action="do-turbo-all">
+      <img srcset="/style/button-turbo.png, /style/button-turbo@2x.png 2x">
+      <span data-i18n="dta-turbo-all"></span>
+    </li>
+    <li class="sep">
+      <hr>
+    </li>
+    <li id="single" data-action="do-single">
+      <span class="icon icon-add"></span>
+      <span data-i18n="add-download"></span>
+    </li>
+    <li class="sep">
+      <hr>
+    </li>
+    <li id="manager" data-action="open-manager">
+      <img srcset="/style/button-manager.png, /style/button-manager@2x.png 2x">
+      <span data-i18n="manager.short"></span>
+    </li>
+    <li id="prefs" data-action="open-prefs">
+      <span class="icon icon-settings"></span>
+      <span data-i18n="prefs.short">Preferences</span>
+    </li>
+  </ul>
+</body>
+
+</html>

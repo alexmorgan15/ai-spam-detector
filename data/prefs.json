@@ -1,0 +1,27 @@
+{
+	"button-type": "popup",
+	"manager-in-popup": false,
+	"concurrent": 4,
+	"queue-notification": true,
+	"finish-notification": true,
+	"sounds": true,
+	"open-manager-on-queue": true,
+	"text-links": true,
+	"add-paused": false,
+	"hide-context": false,
+	"conflict-action": "uniquify",
+	"nagging": 0,
+	"nagging-next": 7,
+	"tooltip": true,
+	"show-urls": false,
+	"remove-missing-on-init": false,
+	"retries": 5,
+	"retry-time": 10,
+	"theme": "default",
+	"limits": [
+		{
+			"domain": "*",
+			"concurrent": -1
+		}
+	]
+}
