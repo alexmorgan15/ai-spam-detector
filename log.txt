@@ -101,3 +101,4 @@
 0101. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
 0103. 🔧 refactor: remove redundant code blocks
+0104. 🎨 style: apply consistent indentation
