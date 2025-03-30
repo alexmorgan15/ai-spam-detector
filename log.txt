@@ -100,3 +100,4 @@
 0100. ♻️ chore: update .gitignore
 0101. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
+0103. 🔧 refactor: remove redundant code blocks
