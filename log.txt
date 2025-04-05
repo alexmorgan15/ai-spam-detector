@@ -94,3 +94,4 @@
 0094. 📚 docs: document token refresh logic
 0095. ✅ test: mock database connection in test suite
 0096. 🐛 fix: prevent crash on empty input
+0097. 🐛 fix: handle 500 error in quiz API
