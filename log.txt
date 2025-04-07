@@ -92,3 +92,4 @@
 0092. 🚀 perf: reduce image load time
 0093. ✅ test: add unit test for quiz service
 0094. 📚 docs: document token refresh logic
+0095. ✅ test: mock database connection in test suite
