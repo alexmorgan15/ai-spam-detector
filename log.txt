@@ -90,3 +90,4 @@
 0090. ✅ test: increase coverage on auth module
 0091. ✨ feat: add user authentication
 0092. 🚀 perf: reduce image load time
+0093. ✅ test: add unit test for quiz service
