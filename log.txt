@@ -88,3 +88,4 @@
 0088. 📚 docs: add API usage examples
 0089. 🔧 refactor: remove redundant code blocks
 0090. ✅ test: increase coverage on auth module
+0091. ✨ feat: add user authentication
