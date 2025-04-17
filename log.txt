@@ -82,3 +82,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0083. 🎨 style: reformat files with black
 0084. 🐛 fix: handle 500 error in quiz API
+0085. ✨ feat: support email verification
