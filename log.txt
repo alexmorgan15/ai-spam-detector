@@ -78,3 +78,4 @@
 0078. ♻️ chore: update .gitignore
 0079. 🐛 fix: correct typo in registration form
 0080. ✨ feat: support email verification
+0081. 🐛 fix: fix null pointer exception on login
