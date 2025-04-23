@@ -76,3 +76,4 @@
 0076. 🎨 style: reformat files with black
 0077. ♻️ chore: rename env.example
 0078. ♻️ chore: update .gitignore
+0079. 🐛 fix: correct typo in registration form
