@@ -74,3 +74,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0075. ✅ test: mock database connection in test suite
 0076. 🎨 style: reformat files with black
+0077. ♻️ chore: rename env.example
