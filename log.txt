@@ -61,3 +61,4 @@
 0061. ✨ feat: create admin dashboard
 0062. ♻️ chore: update .gitignore
 0063. 🐛 fix: handle 500 error in quiz API
+0064. 📚 docs: clarify environment setup
