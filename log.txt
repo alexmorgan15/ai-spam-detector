@@ -52,3 +52,4 @@
 0052. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
 0054. ♻️ chore: update .gitignore
+0055. 📚 docs: update README with setup steps
