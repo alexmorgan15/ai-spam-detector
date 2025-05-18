@@ -51,3 +51,4 @@
 0051. ✨ feat: enable dark mode toggle
 0052. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0054. ♻️ chore: update .gitignore
