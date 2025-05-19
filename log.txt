@@ -50,3 +50,4 @@
 0050. ✨ feat: enable dark mode toggle
 0051. ✨ feat: enable dark mode toggle
 0052. 🎨 style: standardize quote style
+0053. ✅ test: increase coverage on auth module
