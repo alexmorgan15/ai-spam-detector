@@ -48,3 +48,4 @@
 0048. 📚 docs: update README with setup steps
 0049. 🐛 fix: handle 500 error in quiz API
 0050. ✨ feat: enable dark mode toggle
+0051. ✨ feat: enable dark mode toggle
