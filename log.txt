@@ -28,3 +28,4 @@
 0028. 🎨 style: standardize quote style
 0029. 🚀 perf: lazy-load components
 0030. 🐛 fix: fix null pointer exception on login
+0031. 📚 docs: document token refresh logic
