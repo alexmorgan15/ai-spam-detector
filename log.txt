@@ -27,3 +27,4 @@
 0027. 📚 docs: clarify environment setup
 0028. 🎨 style: standardize quote style
 0029. 🚀 perf: lazy-load components
+0030. 🐛 fix: fix null pointer exception on login
