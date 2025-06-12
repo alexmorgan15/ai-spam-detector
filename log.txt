@@ -26,3 +26,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0027. 📚 docs: clarify environment setup
 0028. 🎨 style: standardize quote style
+0029. 🚀 perf: lazy-load components
