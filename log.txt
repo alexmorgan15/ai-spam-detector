@@ -24,3 +24,4 @@
 0024. 📚 docs: write FAQ section
 0025. 🚀 perf: optimize database query for quiz results
 0026. 🔧 refactor: clean up auth middleware
+0027. 📚 docs: clarify environment setup
