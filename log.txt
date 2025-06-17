@@ -21,3 +21,4 @@
 0021. ✨ feat: support email verification
 0022. 📚 docs: document token refresh logic
 0023. 📚 docs: clarify environment setup
+0024. 📚 docs: write FAQ section
