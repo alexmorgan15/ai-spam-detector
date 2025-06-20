@@ -18,3 +18,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0019. ✨ feat: enable dark mode toggle
 0020. ✅ test: add integration test for /submit endpoint
+0021. ✨ feat: support email verification
