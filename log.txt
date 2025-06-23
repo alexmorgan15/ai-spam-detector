@@ -15,3 +15,4 @@
 0015. ✨ feat: implement quiz timer feature
 0016. 🎨 style: apply consistent indentation
 0017. ✅ test: mock database connection in test suite
+0018. 🔧 refactor: organize models into subfolders
