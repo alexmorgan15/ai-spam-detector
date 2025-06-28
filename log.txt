@@ -10,3 +10,4 @@
 0010. ✨ feat: add user authentication
 0011. ✅ test: add unit test for quiz service
 0012. 🚀 perf: cache repeated calculations
+0013. ✅ test: increase coverage on auth module
