@@ -3,3 +3,4 @@
 0003. ✅ test: increase coverage on auth module
 0004. 🚀 perf: optimize database query for quiz results
 0005. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
