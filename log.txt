@@ -1,2 +1,3 @@
 0001. 🚀 perf: cache repeated calculations
 0002. 🚀 perf: cache repeated calculations
+0003. ✅ test: increase coverage on auth module
